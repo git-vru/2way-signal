@@ -1,4 +1,5 @@
 # Two-Way Traffic Signal Arduino Project
+Link to Tinkercad simulation - https://www.tinkercad.com/things/9TXUvdl8Ojz-2-way-traffic-light?sharecode=YUjy9RwIrkLmc8MBtxo399pwvaGYzw-9APE-YyD8ACk
 ## Overview
 This Arduino project simulates a two-way traffic signal system using LEDs to represent the traffic lights. The system consists of two sets of traffic lights, each controlling traffic flow in opposite directions.
 
